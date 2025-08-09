@@ -1,0 +1,13 @@
+aaaaafd:1 write success
+aaaaafd:1 write success
+
+fd:1 write success
+bbbbbfd:1 write success
+bbbbbfd:1 write success
+bb
+fd:1 write success
+cccccfd:1 write success
+cccccfd:1 write success
+c
+fd:1 write success
+text to write.text to write.text to write.

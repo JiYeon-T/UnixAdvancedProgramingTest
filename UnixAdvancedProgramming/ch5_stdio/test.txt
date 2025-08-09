@@ -1,0 +1,12 @@
+Hello, world start
+enter any character:
+stream = stdin, full buffered
+buffer size:4096
+stream = stdout, full buffered
+buffer size:4096
+stream = stderr, unbuffered
+buffer size:0
+getchar failed
+stream = fp, full buffered
+buffer size:4096
+Hello, world end

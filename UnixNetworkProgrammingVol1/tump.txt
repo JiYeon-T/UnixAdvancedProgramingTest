@@ -1,0 +1,524 @@
+22:00:21.976941 IP localhost.37486 > localhost.15490: Flags [P.], seq 1893796849:1893796947, ack 3941506348, win 512, options [nop,nop,TS val 3776089120 ecr 3776088161], length 98
+22:00:21.976966 IP localhost.15490 > localhost.37486: Flags [.], ack 98, win 512, options [nop,nop,TS val 3776089120 ecr 3776089120], length 0
+22:00:21.977259 IP localhost.15490 > localhost.37486: Flags [P.], seq 1:31, ack 98, win 512, options [nop,nop,TS val 3776089120 ecr 3776089120], length 30
+22:00:21.977362 IP localhost.15490 > localhost.37486: Flags [P.], seq 31:107, ack 98, win 512, options [nop,nop,TS val 3776089120 ecr 3776089120], length 76
+22:00:21.977382 IP localhost.37486 > localhost.15490: Flags [P.], seq 98:115, ack 31, win 512, options [nop,nop,TS val 3776089120 ecr 3776089120], length 17
+22:00:21.977591 IP localhost.37486 > localhost.15490: Flags [P.], seq 115:215, ack 107, win 512, options [nop,nop,TS val 3776089121 ecr 3776089120], length 100
+22:00:21.977702 IP localhost.15490 > localhost.37486: Flags [.], ack 215, win 512, options [nop,nop,TS val 3776089121 ecr 3776089120], length 0
+22:00:21.977877 IP localhost.15490 > localhost.37486: Flags [P.], seq 107:137, ack 215, win 512, options [nop,nop,TS val 3776089121 ecr 3776089120], length 30
+22:00:21.978006 IP localhost.37486 > localhost.15490: Flags [P.], seq 215:232, ack 137, win 512, options [nop,nop,TS val 3776089121 ecr 3776089121], length 17
+22:00:21.978049 IP localhost.15490 > localhost.37486: Flags [P.], seq 137:215, ack 232, win 512, options [nop,nop,TS val 3776089121 ecr 3776089121], length 78
+22:00:21.978238 IP localhost.37486 > localhost.15490: Flags [P.], seq 232:331, ack 215, win 512, options [nop,nop,TS val 3776089121 ecr 3776089121], length 99
+22:00:21.978521 IP localhost.15490 > localhost.37486: Flags [P.], seq 215:245, ack 331, win 512, options [nop,nop,TS val 3776089122 ecr 3776089121], length 30
+22:00:21.978644 IP localhost.37486 > localhost.15490: Flags [P.], seq 331:348, ack 245, win 512, options [nop,nop,TS val 3776089122 ecr 3776089122], length 17
+22:00:21.978652 IP localhost.15490 > localhost.37486: Flags [P.], seq 245:322, ack 331, win 512, options [nop,nop,TS val 3776089122 ecr 3776089121], length 77
+22:00:21.978816 IP localhost.37486 > localhost.15490: Flags [P.], seq 348:449, ack 322, win 512, options [nop,nop,TS val 3776089122 ecr 3776089122], length 101
+22:00:21.978878 IP localhost.15490 > localhost.37486: Flags [.], ack 449, win 512, options [nop,nop,TS val 3776089122 ecr 3776089122], length 0
+22:00:21.979056 IP localhost.15490 > localhost.37486: Flags [P.], seq 322:352, ack 449, win 512, options [nop,nop,TS val 3776089122 ecr 3776089122], length 30
+22:00:21.979155 IP localhost.15490 > localhost.37486: Flags [P.], seq 352:431, ack 449, win 512, options [nop,nop,TS val 3776089122 ecr 3776089122], length 79
+22:00:21.979182 IP localhost.37486 > localhost.15490: Flags [.], ack 431, win 512, options [nop,nop,TS val 3776089122 ecr 3776089122], length 0
+22:00:21.979255 IP localhost.37486 > localhost.15490: Flags [P.], seq 449:479, ack 431, win 512, options [nop,nop,TS val 3776089122 ecr 3776089122], length 30
+22:00:22.022014 IP localhost.15490 > localhost.37486: Flags [.], ack 479, win 512, options [nop,nop,TS val 3776089165 ecr 3776089122], length 0
+22:00:22.979839 IP localhost.37486 > localhost.15490: Flags [P.], seq 479:577, ack 431, win 512, options [nop,nop,TS val 3776090123 ecr 3776089165], length 98
+22:00:22.979864 IP localhost.15490 > localhost.37486: Flags [.], ack 577, win 512, options [nop,nop,TS val 3776090123 ecr 3776090123], length 0
+22:00:22.980192 IP localhost.15490 > localhost.37486: Flags [P.], seq 431:461, ack 577, win 512, options [nop,nop,TS val 3776090123 ecr 3776090123], length 30
+22:00:22.980305 IP localhost.15490 > localhost.37486: Flags [P.], seq 461:537, ack 577, win 512, options [nop,nop,TS val 3776090123 ecr 3776090123], length 76
+22:00:22.980336 IP localhost.37486 > localhost.15490: Flags [P.], seq 577:594, ack 537, win 512, options [nop,nop,TS val 3776090123 ecr 3776090123], length 17
+22:00:22.980542 IP localhost.37486 > localhost.15490: Flags [P.], seq 594:694, ack 537, win 512, options [nop,nop,TS val 3776090124 ecr 3776090123], length 100
+22:00:22.980596 IP localhost.15490 > localhost.37486: Flags [.], ack 694, win 512, options [nop,nop,TS val 3776090124 ecr 3776090123], length 0
+22:00:22.980770 IP localhost.15490 > localhost.37486: Flags [P.], seq 537:567, ack 694, win 512, options [nop,nop,TS val 3776090124 ecr 3776090123], length 30
+22:00:22.980840 IP localhost.15490 > localhost.37486: Flags [P.], seq 567:645, ack 694, win 512, options [nop,nop,TS val 3776090124 ecr 3776090123], length 78
+22:00:22.980869 IP localhost.37486 > localhost.15490: Flags [.], ack 645, win 512, options [nop,nop,TS val 3776090124 ecr 3776090124], length 0
+22:00:22.980954 IP localhost.37486 > localhost.15490: Flags [P.], seq 694:724, ack 645, win 512, options [nop,nop,TS val 3776090124 ecr 3776090124], length 30
+22:00:22.981147 IP localhost.37486 > localhost.15490: Flags [P.], seq 724:823, ack 645, win 512, options [nop,nop,TS val 3776090124 ecr 3776090124], length 99
+22:00:22.981194 IP localhost.15490 > localhost.37486: Flags [.], ack 823, win 512, options [nop,nop,TS val 3776090124 ecr 3776090124], length 0
+22:00:22.981365 IP localhost.15490 > localhost.37486: Flags [P.], seq 645:675, ack 823, win 512, options [nop,nop,TS val 3776090124 ecr 3776090124], length 30
+22:00:22.981401 IP localhost.15490 > localhost.37486: Flags [P.], seq 675:752, ack 823, win 512, options [nop,nop,TS val 3776090124 ecr 3776090124], length 77
+22:00:22.981430 IP localhost.37486 > localhost.15490: Flags [.], ack 752, win 512, options [nop,nop,TS val 3776090125 ecr 3776090124], length 0
+22:00:22.981489 IP localhost.37486 > localhost.15490: Flags [P.], seq 823:853, ack 752, win 512, options [nop,nop,TS val 3776090125 ecr 3776090124], length 30
+22:00:22.981597 IP localhost.37486 > localhost.15490: Flags [P.], seq 853:954, ack 752, win 512, options [nop,nop,TS val 3776090125 ecr 3776090124], length 101
+22:00:22.981630 IP localhost.15490 > localhost.37486: Flags [.], ack 954, win 512, options [nop,nop,TS val 3776090125 ecr 3776090125], length 0
+22:00:22.981809 IP localhost.15490 > localhost.37486: Flags [P.], seq 752:782, ack 954, win 512, options [nop,nop,TS val 3776090125 ecr 3776090125], length 30
+22:00:22.981967 IP localhost.37486 > localhost.15490: Flags [P.], seq 954:971, ack 782, win 512, options [nop,nop,TS val 3776090125 ecr 3776090125], length 17
+22:00:22.981990 IP localhost.15490 > localhost.37486: Flags [P.], seq 782:861, ack 954, win 512, options [nop,nop,TS val 3776090125 ecr 3776090125], length 79
+22:00:23.026095 IP localhost.15490 > localhost.37486: Flags [.], ack 971, win 512, options [nop,nop,TS val 3776090169 ecr 3776090125], length 0
+22:00:23.026109 IP localhost.37486 > localhost.15490: Flags [.], ack 861, win 512, options [nop,nop,TS val 3776090169 ecr 3776090125], length 0
+22:00:23.982399 IP localhost.37486 > localhost.15490: Flags [P.], seq 971:1069, ack 861, win 512, options [nop,nop,TS val 3776091125 ecr 3776090169], length 98
+22:00:23.982423 IP localhost.15490 > localhost.37486: Flags [.], ack 1069, win 512, options [nop,nop,TS val 3776091125 ecr 3776091125], length 0
+22:00:23.982706 IP localhost.15490 > localhost.37486: Flags [P.], seq 861:891, ack 1069, win 512, options [nop,nop,TS val 3776091126 ecr 3776091125], length 30
+22:00:23.982722 IP localhost.37486 > localhost.15490: Flags [.], ack 891, win 512, options [nop,nop,TS val 3776091126 ecr 3776091126], length 0
+22:00:23.982800 IP localhost.15490 > localhost.37486: Flags [P.], seq 891:967, ack 1069, win 512, options [nop,nop,TS val 3776091126 ecr 3776091126], length 76
+22:00:23.982812 IP localhost.37486 > localhost.15490: Flags [.], ack 967, win 512, options [nop,nop,TS val 3776091126 ecr 3776091126], length 0
+22:00:23.982828 IP localhost.37486 > localhost.15490: Flags [P.], seq 1069:1086, ack 967, win 512, options [nop,nop,TS val 3776091126 ecr 3776091126], length 17
+22:00:23.983006 IP localhost.37486 > localhost.15490: Flags [P.], seq 1086:1186, ack 967, win 512, options [nop,nop,TS val 3776091126 ecr 3776091126], length 100
+22:00:23.983106 IP localhost.15490 > localhost.37486: Flags [.], ack 1186, win 512, options [nop,nop,TS val 3776091126 ecr 3776091126], length 0
+22:00:23.983264 IP localhost.15490 > localhost.37486: Flags [P.], seq 967:997, ack 1186, win 512, options [nop,nop,TS val 3776091126 ecr 3776091126], length 30
+22:00:23.983377 IP localhost.15490 > localhost.37486: Flags [P.], seq 997:1075, ack 1186, win 512, options [nop,nop,TS val 3776091126 ecr 3776091126], length 78
+22:00:23.983378 IP localhost.37486 > localhost.15490: Flags [P.], seq 1186:1203, ack 997, win 512, options [nop,nop,TS val 3776091126 ecr 3776091126], length 17
+22:00:23.983544 IP localhost.37486 > localhost.15490: Flags [P.], seq 1203:1302, ack 1075, win 512, options [nop,nop,TS val 3776091127 ecr 3776091126], length 99
+22:00:23.983650 IP localhost.15490 > localhost.37486: Flags [.], ack 1302, win 512, options [nop,nop,TS val 3776091127 ecr 3776091126], length 0
+22:00:23.983814 IP localhost.15490 > localhost.37486: Flags [P.], seq 1075:1105, ack 1302, win 512, options [nop,nop,TS val 3776091127 ecr 3776091126], length 30
+22:00:23.983890 IP localhost.15490 > localhost.37486: Flags [P.], seq 1105:1182, ack 1302, win 512, options [nop,nop,TS val 3776091127 ecr 3776091126], length 77
+22:00:23.983920 IP localhost.37486 > localhost.15490: Flags [.], ack 1182, win 512, options [nop,nop,TS val 3776091127 ecr 3776091127], length 0
+22:00:23.983986 IP localhost.37486 > localhost.15490: Flags [P.], seq 1302:1332, ack 1182, win 512, options [nop,nop,TS val 3776091127 ecr 3776091127], length 30
+22:00:23.984106 IP localhost.37486 > localhost.15490: Flags [P.], seq 1332:1433, ack 1182, win 512, options [nop,nop,TS val 3776091127 ecr 3776091127], length 101
+22:00:23.984151 IP localhost.15490 > localhost.37486: Flags [.], ack 1433, win 512, options [nop,nop,TS val 3776091127 ecr 3776091127], length 0
+22:00:23.984304 IP localhost.15490 > localhost.37486: Flags [P.], seq 1182:1212, ack 1433, win 512, options [nop,nop,TS val 3776091127 ecr 3776091127], length 30
+22:00:23.984429 IP localhost.37486 > localhost.15490: Flags [P.], seq 1433:1450, ack 1212, win 512, options [nop,nop,TS val 3776091128 ecr 3776091127], length 17
+22:00:23.984434 IP localhost.15490 > localhost.37486: Flags [P.], seq 1212:1291, ack 1433, win 512, options [nop,nop,TS val 3776091128 ecr 3776091127], length 79
+22:00:24.026014 IP localhost.15490 > localhost.37486: Flags [.], ack 1450, win 512, options [nop,nop,TS val 3776091169 ecr 3776091128], length 0
+22:00:24.026017 IP localhost.37486 > localhost.15490: Flags [.], ack 1291, win 512, options [nop,nop,TS val 3776091169 ecr 3776091128], length 0
+22:00:24.984826 IP localhost.37486 > localhost.15490: Flags [P.], seq 1450:1548, ack 1291, win 512, options [nop,nop,TS val 3776092128 ecr 3776091169], length 98
+22:00:24.984850 IP localhost.15490 > localhost.37486: Flags [.], ack 1548, win 512, options [nop,nop,TS val 3776092128 ecr 3776092128], length 0
+22:00:24.985150 IP localhost.15490 > localhost.37486: Flags [P.], seq 1291:1321, ack 1548, win 512, options [nop,nop,TS val 3776092128 ecr 3776092128], length 30
+22:00:24.985171 IP localhost.37486 > localhost.15490: Flags [.], ack 1321, win 512, options [nop,nop,TS val 3776092128 ecr 3776092128], length 0
+22:00:24.985285 IP localhost.37486 > localhost.15490: Flags [P.], seq 1548:1565, ack 1321, win 512, options [nop,nop,TS val 3776092128 ecr 3776092128], length 17
+22:00:24.985305 IP localhost.15490 > localhost.37486: Flags [P.], seq 1321:1397, ack 1548, win 512, options [nop,nop,TS val 3776092128 ecr 3776092128], length 76
+22:00:24.985488 IP localhost.37486 > localhost.15490: Flags [P.], seq 1565:1665, ack 1397, win 512, options [nop,nop,TS val 3776092129 ecr 3776092128], length 100
+22:00:24.985603 IP localhost.15490 > localhost.37486: Flags [.], ack 1665, win 512, options [nop,nop,TS val 3776092129 ecr 3776092128], length 0
+22:00:24.985788 IP localhost.15490 > localhost.37486: Flags [P.], seq 1397:1427, ack 1665, win 512, options [nop,nop,TS val 3776092129 ecr 3776092128], length 30
+22:00:24.985867 IP localhost.15490 > localhost.37486: Flags [P.], seq 1427:1505, ack 1665, win 512, options [nop,nop,TS val 3776092129 ecr 3776092128], length 78
+22:00:24.985919 IP localhost.37486 > localhost.15490: Flags [.], ack 1505, win 512, options [nop,nop,TS val 3776092129 ecr 3776092129], length 0
+22:00:24.986002 IP localhost.37486 > localhost.15490: Flags [P.], seq 1665:1695, ack 1505, win 512, options [nop,nop,TS val 3776092129 ecr 3776092129], length 30
+22:00:24.986135 IP localhost.37486 > localhost.15490: Flags [P.], seq 1695:1794, ack 1505, win 512, options [nop,nop,TS val 3776092129 ecr 3776092129], length 99
+22:00:24.986172 IP localhost.15490 > localhost.37486: Flags [.], ack 1794, win 512, options [nop,nop,TS val 3776092129 ecr 3776092129], length 0
+22:00:24.986426 IP localhost.15490 > localhost.37486: Flags [P.], seq 1505:1535, ack 1794, win 512, options [nop,nop,TS val 3776092130 ecr 3776092129], length 30
+22:00:24.986465 IP localhost.15490 > localhost.37486: Flags [P.], seq 1535:1612, ack 1794, win 512, options [nop,nop,TS val 3776092130 ecr 3776092129], length 77
+22:00:24.986532 IP localhost.37486 > localhost.15490: Flags [.], ack 1612, win 512, options [nop,nop,TS val 3776092130 ecr 3776092130], length 0
+22:00:24.986616 IP localhost.37486 > localhost.15490: Flags [P.], seq 1794:1824, ack 1612, win 512, options [nop,nop,TS val 3776092130 ecr 3776092130], length 30
+22:00:24.986747 IP localhost.37486 > localhost.15490: Flags [P.], seq 1824:1925, ack 1612, win 512, options [nop,nop,TS val 3776092130 ecr 3776092130], length 101
+22:00:24.986790 IP localhost.15490 > localhost.37486: Flags [.], ack 1925, win 512, options [nop,nop,TS val 3776092130 ecr 3776092130], length 0
+22:00:24.986958 IP localhost.15490 > localhost.37486: Flags [P.], seq 1612:1642, ack 1925, win 512, options [nop,nop,TS val 3776092130 ecr 3776092130], length 30
+22:00:24.987063 IP localhost.15490 > localhost.37486: Flags [P.], seq 1642:1721, ack 1925, win 512, options [nop,nop,TS val 3776092130 ecr 3776092130], length 79
+22:00:24.987078 IP localhost.37486 > localhost.15490: Flags [P.], seq 1925:1942, ack 1642, win 512, options [nop,nop,TS val 3776092130 ecr 3776092130], length 17
+22:00:25.029960 IP localhost.37486 > localhost.15490: Flags [.], ack 1721, win 512, options [nop,nop,TS val 3776092173 ecr 3776092130], length 0
+22:00:25.029992 IP localhost.15490 > localhost.37486: Flags [.], ack 1942, win 512, options [nop,nop,TS val 3776092173 ecr 3776092130], length 0
+22:00:25.987757 IP localhost.37486 > localhost.15490: Flags [P.], seq 1942:2040, ack 1721, win 512, options [nop,nop,TS val 3776093131 ecr 3776092173], length 98
+22:00:25.987782 IP localhost.15490 > localhost.37486: Flags [.], ack 2040, win 512, options [nop,nop,TS val 3776093131 ecr 3776093131], length 0
+22:00:25.988090 IP localhost.15490 > localhost.37486: Flags [P.], seq 1721:1751, ack 2040, win 512, options [nop,nop,TS val 3776093131 ecr 3776093131], length 30
+22:00:25.988108 IP localhost.37486 > localhost.15490: Flags [.], ack 1751, win 512, options [nop,nop,TS val 3776093131 ecr 3776093131], length 0
+22:00:25.988222 IP localhost.37486 > localhost.15490: Flags [P.], seq 2040:2057, ack 1751, win 512, options [nop,nop,TS val 3776093131 ecr 3776093131], length 17
+22:00:25.988275 IP localhost.15490 > localhost.37486: Flags [P.], seq 1751:1827, ack 2057, win 512, options [nop,nop,TS val 3776093131 ecr 3776093131], length 76
+22:00:25.988566 IP localhost.37486 > localhost.15490: Flags [P.], seq 2057:2157, ack 1827, win 512, options [nop,nop,TS val 3776093132 ecr 3776093131], length 100
+22:00:25.988772 IP localhost.15490 > localhost.37486: Flags [P.], seq 1827:1857, ack 2157, win 512, options [nop,nop,TS val 3776093132 ecr 3776093132], length 30
+22:00:25.988835 IP localhost.15490 > localhost.37486: Flags [P.], seq 1857:1935, ack 2157, win 512, options [nop,nop,TS val 3776093132 ecr 3776093132], length 78
+22:00:25.988868 IP localhost.37486 > localhost.15490: Flags [.], ack 1935, win 512, options [nop,nop,TS val 3776093132 ecr 3776093132], length 0
+22:00:25.988954 IP localhost.37486 > localhost.15490: Flags [P.], seq 2157:2187, ack 1935, win 512, options [nop,nop,TS val 3776093132 ecr 3776093132], length 30
+22:00:25.989090 IP localhost.37486 > localhost.15490: Flags [P.], seq 2187:2286, ack 1935, win 512, options [nop,nop,TS val 3776093132 ecr 3776093132], length 99
+22:00:25.989127 IP localhost.15490 > localhost.37486: Flags [.], ack 2286, win 512, options [nop,nop,TS val 3776093132 ecr 3776093132], length 0
+22:00:25.989297 IP localhost.15490 > localhost.37486: Flags [P.], seq 1935:1965, ack 2286, win 512, options [nop,nop,TS val 3776093132 ecr 3776093132], length 30
+22:00:25.989331 IP localhost.15490 > localhost.37486: Flags [P.], seq 1965:2042, ack 2286, win 512, options [nop,nop,TS val 3776093132 ecr 3776093132], length 77
+22:00:25.989387 IP localhost.37486 > localhost.15490: Flags [.], ack 2042, win 512, options [nop,nop,TS val 3776093132 ecr 3776093132], length 0
+22:00:25.989469 IP localhost.37486 > localhost.15490: Flags [P.], seq 2286:2316, ack 2042, win 512, options [nop,nop,TS val 3776093133 ecr 3776093132], length 30
+22:00:25.989601 IP localhost.37486 > localhost.15490: Flags [P.], seq 2316:2417, ack 2042, win 512, options [nop,nop,TS val 3776093133 ecr 3776093132], length 101
+22:00:25.989649 IP localhost.15490 > localhost.37486: Flags [.], ack 2417, win 512, options [nop,nop,TS val 3776093133 ecr 3776093133], length 0
+22:00:25.989783 IP localhost.15490 > localhost.37486: Flags [P.], seq 2042:2072, ack 2417, win 512, options [nop,nop,TS val 3776093133 ecr 3776093133], length 30
+22:00:25.989916 IP localhost.37486 > localhost.15490: Flags [P.], seq 2417:2434, ack 2072, win 512, options [nop,nop,TS val 3776093133 ecr 3776093133], length 17
+22:00:25.989953 IP localhost.15490 > localhost.37486: Flags [P.], seq 2072:2151, ack 2434, win 512, options [nop,nop,TS val 3776093133 ecr 3776093133], length 79
+22:00:26.034222 IP localhost.37486 > localhost.15490: Flags [.], ack 2151, win 512, options [nop,nop,TS val 3776093177 ecr 3776093133], length 0
+22:00:26.990568 IP localhost.37486 > localhost.15490: Flags [P.], seq 2434:2532, ack 2151, win 512, options [nop,nop,TS val 3776094134 ecr 3776093133], length 98
+22:00:26.990972 IP localhost.15490 > localhost.37486: Flags [P.], seq 2151:2181, ack 2532, win 512, options [nop,nop,TS val 3776094134 ecr 3776094134], length 30
+22:00:26.991001 IP localhost.37486 > localhost.15490: Flags [.], ack 2181, win 512, options [nop,nop,TS val 3776094134 ecr 3776094134], length 0
+22:00:26.991035 IP localhost.15490 > localhost.37486: Flags [P.], seq 2181:2257, ack 2532, win 512, options [nop,nop,TS val 3776094134 ecr 3776094134], length 76
+22:00:26.991044 IP localhost.37486 > localhost.15490: Flags [.], ack 2257, win 512, options [nop,nop,TS val 3776094134 ecr 3776094134], length 0
+22:00:26.991152 IP localhost.37486 > localhost.15490: Flags [P.], seq 2532:2562, ack 2257, win 512, options [nop,nop,TS val 3776094134 ecr 3776094134], length 30
+22:00:26.991299 IP localhost.37486 > localhost.15490: Flags [P.], seq 2562:2662, ack 2257, win 512, options [nop,nop,TS val 3776094134 ecr 3776094134], length 100
+22:00:26.991343 IP localhost.15490 > localhost.37486: Flags [.], ack 2662, win 512, options [nop,nop,TS val 3776094134 ecr 3776094134], length 0
+22:00:26.991502 IP localhost.15490 > localhost.37486: Flags [P.], seq 2257:2287, ack 2662, win 512, options [nop,nop,TS val 3776094135 ecr 3776094134], length 30
+22:00:26.991625 IP localhost.15490 > localhost.37486: Flags [P.], seq 2287:2365, ack 2662, win 512, options [nop,nop,TS val 3776094135 ecr 3776094134], length 78
+22:00:26.991629 IP localhost.37486 > localhost.15490: Flags [P.], seq 2662:2679, ack 2287, win 512, options [nop,nop,TS val 3776094135 ecr 3776094135], length 17
+22:00:26.991813 IP localhost.37486 > localhost.15490: Flags [P.], seq 2679:2778, ack 2365, win 512, options [nop,nop,TS val 3776094135 ecr 3776094135], length 99
+22:00:26.991925 IP localhost.15490 > localhost.37486: Flags [.], ack 2778, win 512, options [nop,nop,TS val 3776094135 ecr 3776094135], length 0
+22:00:26.992093 IP localhost.15490 > localhost.37486: Flags [P.], seq 2365:2395, ack 2778, win 512, options [nop,nop,TS val 3776094135 ecr 3776094135], length 30
+22:00:26.992205 IP localhost.15490 > localhost.37486: Flags [P.], seq 2395:2472, ack 2778, win 512, options [nop,nop,TS val 3776094135 ecr 3776094135], length 77
+22:00:26.992213 IP localhost.37486 > localhost.15490: Flags [P.], seq 2778:2795, ack 2395, win 512, options [nop,nop,TS val 3776094135 ecr 3776094135], length 17
+22:00:26.992404 IP localhost.37486 > localhost.15490: Flags [P.], seq 2795:2896, ack 2472, win 512, options [nop,nop,TS val 3776094135 ecr 3776094135], length 101
+22:00:26.992454 IP localhost.15490 > localhost.37486: Flags [.], ack 2896, win 512, options [nop,nop,TS val 3776094136 ecr 3776094135], length 0
+22:00:26.992691 IP localhost.15490 > localhost.37486: Flags [P.], seq 2472:2581, ack 2896, win 512, options [nop,nop,TS val 3776094136 ecr 3776094135], length 109
+22:00:26.992858 IP localhost.37486 > localhost.15490: Flags [P.], seq 2896:2926, ack 2581, win 512, options [nop,nop,TS val 3776094136 ecr 3776094136], length 30
+22:00:27.034014 IP localhost.15490 > localhost.37486: Flags [.], ack 2926, win 512, options [nop,nop,TS val 3776094177 ecr 3776094136], length 0
+22:00:27.993375 IP localhost.37486 > localhost.15490: Flags [P.], seq 2926:3041, ack 2581, win 512, options [nop,nop,TS val 3776095136 ecr 3776094177], length 115
+22:00:27.993399 IP localhost.15490 > localhost.37486: Flags [.], ack 3041, win 512, options [nop,nop,TS val 3776095136 ecr 3776095136], length 0
+22:00:27.993759 IP localhost.15490 > localhost.37486: Flags [P.], seq 2581:2628, ack 3041, win 512, options [nop,nop,TS val 3776095137 ecr 3776095136], length 47
+22:00:27.993802 IP localhost.15490 > localhost.37486: Flags [P.], seq 2628:2704, ack 3041, win 512, options [nop,nop,TS val 3776095137 ecr 3776095136], length 76
+22:00:27.993857 IP localhost.37486 > localhost.15490: Flags [.], ack 2704, win 512, options [nop,nop,TS val 3776095137 ecr 3776095137], length 0
+22:00:27.993979 IP localhost.37486 > localhost.15490: Flags [P.], seq 3041:3071, ack 2704, win 512, options [nop,nop,TS val 3776095137 ecr 3776095137], length 30
+22:00:27.994113 IP localhost.37486 > localhost.15490: Flags [P.], seq 3071:3171, ack 2704, win 512, options [nop,nop,TS val 3776095137 ecr 3776095137], length 100
+22:00:27.994153 IP localhost.15490 > localhost.37486: Flags [.], ack 3171, win 512, options [nop,nop,TS val 3776095137 ecr 3776095137], length 0
+22:00:27.994367 IP localhost.15490 > localhost.37486: Flags [P.], seq 2704:2734, ack 3171, win 512, options [nop,nop,TS val 3776095137 ecr 3776095137], length 30
+22:00:27.994399 IP localhost.15490 > localhost.37486: Flags [P.], seq 2734:2812, ack 3171, win 512, options [nop,nop,TS val 3776095137 ecr 3776095137], length 78
+22:00:27.994460 IP localhost.37486 > localhost.15490: Flags [.], ack 2812, win 512, options [nop,nop,TS val 3776095138 ecr 3776095137], length 0
+22:00:27.994538 IP localhost.37486 > localhost.15490: Flags [P.], seq 3171:3201, ack 2812, win 512, options [nop,nop,TS val 3776095138 ecr 3776095137], length 30
+22:00:27.994664 IP localhost.37486 > localhost.15490: Flags [P.], seq 3201:3300, ack 2812, win 512, options [nop,nop,TS val 3776095138 ecr 3776095137], length 99
+22:00:27.994693 IP localhost.15490 > localhost.37486: Flags [.], ack 3300, win 512, options [nop,nop,TS val 3776095138 ecr 3776095138], length 0
+22:00:27.994825 IP localhost.15490 > localhost.37486: Flags [P.], seq 2812:2842, ack 3300, win 512, options [nop,nop,TS val 3776095138 ecr 3776095138], length 30
+22:00:27.994940 IP localhost.37486 > localhost.15490: Flags [P.], seq 3300:3317, ack 2842, win 512, options [nop,nop,TS val 3776095138 ecr 3776095138], length 17
+22:00:27.994942 IP localhost.15490 > localhost.37486: Flags [P.], seq 2842:2919, ack 3300, win 512, options [nop,nop,TS val 3776095138 ecr 3776095138], length 77
+22:00:27.995102 IP localhost.37486 > localhost.15490: Flags [P.], seq 3317:3418, ack 2919, win 512, options [nop,nop,TS val 3776095138 ecr 3776095138], length 101
+22:00:27.995207 IP localhost.15490 > localhost.37486: Flags [.], ack 3418, win 512, options [nop,nop,TS val 3776095138 ecr 3776095138], length 0
+22:00:27.995365 IP localhost.15490 > localhost.37486: Flags [P.], seq 2919:2949, ack 3418, win 512, options [nop,nop,TS val 3776095138 ecr 3776095138], length 30
+22:00:27.995441 IP localhost.15490 > localhost.37486: Flags [P.], seq 2949:3028, ack 3418, win 512, options [nop,nop,TS val 3776095139 ecr 3776095138], length 79
+22:00:27.995468 IP localhost.37486 > localhost.15490: Flags [.], ack 3028, win 512, options [nop,nop,TS val 3776095139 ecr 3776095138], length 0
+22:00:27.995535 IP localhost.37486 > localhost.15490: Flags [P.], seq 3418:3448, ack 3028, win 512, options [nop,nop,TS val 3776095139 ecr 3776095138], length 30
+22:00:28.038019 IP localhost.15490 > localhost.37486: Flags [.], ack 3448, win 512, options [nop,nop,TS val 3776095181 ecr 3776095139], length 0
+22:00:28.996112 IP localhost.37486 > localhost.15490: Flags [P.], seq 3448:3546, ack 3028, win 512, options [nop,nop,TS val 3776096139 ecr 3776095181], length 98
+22:00:28.996139 IP localhost.15490 > localhost.37486: Flags [.], ack 3546, win 512, options [nop,nop,TS val 3776096139 ecr 3776096139], length 0
+22:00:28.996493 IP localhost.15490 > localhost.37486: Flags [P.], seq 3028:3058, ack 3546, win 512, options [nop,nop,TS val 3776096140 ecr 3776096139], length 30
+22:00:28.996579 IP localhost.15490 > localhost.37486: Flags [P.], seq 3058:3134, ack 3546, win 512, options [nop,nop,TS val 3776096140 ecr 3776096139], length 76
+22:00:28.996605 IP localhost.37486 > localhost.15490: Flags [.], ack 3134, win 512, options [nop,nop,TS val 3776096140 ecr 3776096140], length 0
+22:00:28.996687 IP localhost.37486 > localhost.15490: Flags [P.], seq 3546:3576, ack 3134, win 512, options [nop,nop,TS val 3776096140 ecr 3776096140], length 30
+22:00:28.996829 IP localhost.37486 > localhost.15490: Flags [P.], seq 3576:3676, ack 3134, win 512, options [nop,nop,TS val 3776096140 ecr 3776096140], length 100
+22:00:28.996873 IP localhost.15490 > localhost.37486: Flags [.], ack 3676, win 512, options [nop,nop,TS val 3776096140 ecr 3776096140], length 0
+22:00:28.997033 IP localhost.15490 > localhost.37486: Flags [P.], seq 3134:3164, ack 3676, win 512, options [nop,nop,TS val 3776096140 ecr 3776096140], length 30
+22:00:28.997154 IP localhost.37486 > localhost.15490: Flags [P.], seq 3676:3693, ack 3164, win 512, options [nop,nop,TS val 3776096140 ecr 3776096140], length 17
+22:00:28.997174 IP localhost.15490 > localhost.37486: Flags [P.], seq 3164:3242, ack 3676, win 512, options [nop,nop,TS val 3776096140 ecr 3776096140], length 78
+22:00:28.997353 IP localhost.37486 > localhost.15490: Flags [P.], seq 3693:3792, ack 3242, win 512, options [nop,nop,TS val 3776096140 ecr 3776096140], length 99
+22:00:28.997413 IP localhost.15490 > localhost.37486: Flags [.], ack 3792, win 512, options [nop,nop,TS val 3776096140 ecr 3776096140], length 0
+22:00:28.997596 IP localhost.15490 > localhost.37486: Flags [P.], seq 3242:3272, ack 3792, win 512, options [nop,nop,TS val 3776096141 ecr 3776096140], length 30
+22:00:28.997686 IP localhost.15490 > localhost.37486: Flags [P.], seq 3272:3349, ack 3792, win 512, options [nop,nop,TS val 3776096141 ecr 3776096140], length 77
+22:00:28.997711 IP localhost.37486 > localhost.15490: Flags [P.], seq 3792:3809, ack 3349, win 512, options [nop,nop,TS val 3776096141 ecr 3776096141], length 17
+22:00:28.997921 IP localhost.37486 > localhost.15490: Flags [P.], seq 3809:3910, ack 3349, win 512, options [nop,nop,TS val 3776096141 ecr 3776096141], length 101
+22:00:28.997971 IP localhost.15490 > localhost.37486: Flags [.], ack 3910, win 512, options [nop,nop,TS val 3776096141 ecr 3776096141], length 0
+22:00:28.998137 IP localhost.15490 > localhost.37486: Flags [P.], seq 3349:3379, ack 3910, win 512, options [nop,nop,TS val 3776096141 ecr 3776096141], length 30
+22:00:28.998191 IP localhost.15490 > localhost.37486: Flags [P.], seq 3379:3458, ack 3910, win 512, options [nop,nop,TS val 3776096141 ecr 3776096141], length 79
+22:00:28.998230 IP localhost.37486 > localhost.15490: Flags [.], ack 3458, win 512, options [nop,nop,TS val 3776096141 ecr 3776096141], length 0
+22:00:28.998315 IP localhost.37486 > localhost.15490: Flags [P.], seq 3910:3940, ack 3458, win 512, options [nop,nop,TS val 3776096141 ecr 3776096141], length 30
+22:00:29.042006 IP localhost.15490 > localhost.37486: Flags [.], ack 3940, win 512, options [nop,nop,TS val 3776096185 ecr 3776096141], length 0
+22:00:29.077827 IP localhost.53987 > localhost.9999: UDP, length 6
+22:00:29.077849 IP localhost > localhost: ICMP localhost udp port 9999 unreachable, length 42
+22:00:29.711302 IP localhost.45918 > localhost.domain: 26826+ A? vortex.data.microsoft.com. (43)
+22:00:29.711320 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 79
+22:00:29.711339 IP localhost.45918 > localhost.domain: 40006+ AAAA? vortex.data.microsoft.com. (43)
+22:00:29.711346 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 79
+22:00:29.711382 IP localhost.57875 > localhost.domain: 26826+ A? vortex.data.microsoft.com. (43)
+22:00:29.711388 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 79
+22:00:29.711400 IP localhost.57875 > localhost.domain: 40006+ AAAA? vortex.data.microsoft.com. (43)
+22:00:29.711406 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 79
+22:00:29.711443 IP localhost.50255 > localhost.domain: 191+ A? vortex.data.microsoft.com. (43)
+22:00:29.711449 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 79
+22:00:29.711461 IP localhost.50255 > localhost.domain: 42051+ AAAA? vortex.data.microsoft.com. (43)
+22:00:29.711466 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 79
+22:00:29.711494 IP localhost.53670 > localhost.domain: 191+ A? vortex.data.microsoft.com. (43)
+22:00:29.711500 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 79
+22:00:29.711512 IP localhost.53670 > localhost.domain: 42051+ AAAA? vortex.data.microsoft.com. (43)
+22:00:29.711518 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 79
+22:00:29.998669 IP localhost.37486 > localhost.15490: Flags [P.], seq 3940:4038, ack 3458, win 512, options [nop,nop,TS val 3776097142 ecr 3776096185], length 98
+22:00:29.998691 IP localhost.15490 > localhost.37486: Flags [.], ack 4038, win 512, options [nop,nop,TS val 3776097142 ecr 3776097142], length 0
+22:00:29.998995 IP localhost.15490 > localhost.37486: Flags [P.], seq 3458:3488, ack 4038, win 512, options [nop,nop,TS val 3776097142 ecr 3776097142], length 30
+22:00:29.999034 IP localhost.15490 > localhost.37486: Flags [P.], seq 3488:3564, ack 4038, win 512, options [nop,nop,TS val 3776097142 ecr 3776097142], length 76
+22:00:29.999090 IP localhost.37486 > localhost.15490: Flags [.], ack 3564, win 512, options [nop,nop,TS val 3776097142 ecr 3776097142], length 0
+22:00:29.999171 IP localhost.37486 > localhost.15490: Flags [P.], seq 4038:4068, ack 3564, win 512, options [nop,nop,TS val 3776097142 ecr 3776097142], length 30
+22:00:29.999298 IP localhost.37486 > localhost.15490: Flags [P.], seq 4068:4168, ack 3564, win 512, options [nop,nop,TS val 3776097142 ecr 3776097142], length 100
+22:00:29.999339 IP localhost.15490 > localhost.37486: Flags [.], ack 4168, win 512, options [nop,nop,TS val 3776097142 ecr 3776097142], length 0
+22:00:29.999513 IP localhost.15490 > localhost.37486: Flags [P.], seq 3564:3594, ack 4168, win 512, options [nop,nop,TS val 3776097143 ecr 3776097142], length 30
+22:00:29.999566 IP localhost.15490 > localhost.37486: Flags [P.], seq 3594:3672, ack 4168, win 512, options [nop,nop,TS val 3776097143 ecr 3776097142], length 78
+22:00:29.999605 IP localhost.37486 > localhost.15490: Flags [.], ack 3672, win 512, options [nop,nop,TS val 3776097143 ecr 3776097143], length 0
+22:00:29.999682 IP localhost.37486 > localhost.15490: Flags [P.], seq 4168:4198, ack 3672, win 512, options [nop,nop,TS val 3776097143 ecr 3776097143], length 30
+22:00:29.999806 IP localhost.37486 > localhost.15490: Flags [P.], seq 4198:4297, ack 3672, win 512, options [nop,nop,TS val 3776097143 ecr 3776097143], length 99
+22:00:29.999839 IP localhost.15490 > localhost.37486: Flags [.], ack 4297, win 512, options [nop,nop,TS val 3776097143 ecr 3776097143], length 0
+22:00:30.000053 IP localhost.15490 > localhost.37486: Flags [P.], seq 3672:3779, ack 4297, win 512, options [nop,nop,TS val 3776097143 ecr 3776097143], length 107
+22:00:30.000199 IP localhost.37486 > localhost.15490: Flags [P.], seq 4297:4327, ack 3779, win 512, options [nop,nop,TS val 3776097143 ecr 3776097143], length 30
+22:00:30.000333 IP localhost.37486 > localhost.15490: Flags [P.], seq 4327:4428, ack 3779, win 512, options [nop,nop,TS val 3776097143 ecr 3776097143], length 101
+22:00:30.000387 IP localhost.15490 > localhost.37486: Flags [.], ack 4428, win 512, options [nop,nop,TS val 3776097143 ecr 3776097143], length 0
+22:00:30.000540 IP localhost.15490 > localhost.37486: Flags [P.], seq 3779:3809, ack 4428, win 512, options [nop,nop,TS val 3776097144 ecr 3776097143], length 30
+22:00:30.000637 IP localhost.15490 > localhost.37486: Flags [P.], seq 3809:3888, ack 4428, win 512, options [nop,nop,TS val 3776097144 ecr 3776097143], length 79
+22:00:30.000652 IP localhost.37486 > localhost.15490: Flags [P.], seq 4428:4445, ack 3809, win 512, options [nop,nop,TS val 3776097144 ecr 3776097144], length 17
+22:00:30.042012 IP localhost.37486 > localhost.15490: Flags [.], ack 3888, win 512, options [nop,nop,TS val 3776097185 ecr 3776097144], length 0
+22:00:30.042013 IP localhost.15490 > localhost.37486: Flags [.], ack 4445, win 512, options [nop,nop,TS val 3776097185 ecr 3776097144], length 0
+22:00:30.956615 IP localhost.52140 > localhost.8000: Flags [S], seq 4052317831, win 65495, options [mss 65495,sackOK,TS val 3776098100 ecr 0,nop,wscale 7], length 0
+22:00:30.956634 IP localhost.8000 > localhost.52140: Flags [S.], seq 2401970323, ack 4052317832, win 65483, options [mss 65495,sackOK,TS val 3776098100 ecr 3776098100,nop,wscale 7], length 0
+22:00:30.956652 IP localhost.52140 > localhost.8000: Flags [.], ack 1, win 512, options [nop,nop,TS val 3776098100 ecr 3776098100], length 0
+22:00:30.957124 IP localhost.52140 > localhost.8000: Flags [P.], seq 1:103, ack 1, win 512, options [nop,nop,TS val 3776098100 ecr 3776098100], length 102
+22:00:30.957144 IP localhost.8000 > localhost.52140: Flags [.], ack 103, win 511, options [nop,nop,TS val 3776098100 ecr 3776098100], length 0
+22:00:30.957287 IP localhost.8000 > localhost.52140: Flags [P.], seq 1:40, ack 103, win 512, options [nop,nop,TS val 3776098100 ecr 3776098100], length 39
+22:00:30.957311 IP localhost.52140 > localhost.8000: Flags [.], ack 40, win 512, options [nop,nop,TS val 3776098100 ecr 3776098100], length 0
+22:00:30.957964 IP localhost.50619 > localhost.domain: 10351+ A? sg1.1.123004.xyz. (34)
+22:00:30.957970 IP localhost.52679 > localhost.domain: 27689+ AAAA? sg1.1.123004.xyz. (34)
+22:00:30.957987 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:30.957989 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:30.958142 IP6 ip6-localhost.36204 > ip6-localhost.domain: 53918+ A? sg1.1.123004.xyz. (34)
+22:00:30.958166 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:30.958167 IP6 ip6-localhost.46645 > ip6-localhost.domain: 19839+ AAAA? sg1.1.123004.xyz. (34)
+22:00:30.958188 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:30.958289 IP localhost.54528 > localhost.domain: 1065+ A? sg1.1.123004.xyz. (34)
+22:00:30.958291 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:30.958317 IP localhost.48839 > localhost.domain: 41364+ AAAA? sg1.1.123004.xyz. (34)
+22:00:30.958320 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:30.958336 IP6 ip6-localhost.53112 > ip6-localhost.domain: 15511+ A? sg1.1.123004.xyz. (34)
+22:00:30.958339 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:30.958350 IP6 ip6-localhost.44372 > ip6-localhost.domain: 48845+ AAAA? sg1.1.123004.xyz. (34)
+22:00:30.958367 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:30.958494 IP localhost.36093 > localhost.domain: 52315+ AAAA? sg1.1.123004.xyz. (34)
+22:00:30.958497 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:30.958541 IP localhost.52334 > localhost.domain: 41837+ A? sg1.1.123004.xyz. (34)
+22:00:30.958544 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:30.958566 IP6 ip6-localhost.36139 > ip6-localhost.domain: 63275+ AAAA? sg1.1.123004.xyz. (34)
+22:00:30.958590 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:30.958610 IP6 ip6-localhost.54105 > ip6-localhost.domain: 5759+ A? sg1.1.123004.xyz. (34)
+22:00:30.958614 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:30.958636 IP localhost.45369 > localhost.domain: 1208+ AAAA? sg1.1.123004.xyz. (34)
+22:00:30.958659 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:30.958673 IP localhost.34922 > localhost.domain: 6473+ A? sg1.1.123004.xyz. (34)
+22:00:30.958675 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:30.958691 IP6 ip6-localhost.51134 > ip6-localhost.domain: 5685+ AAAA? sg1.1.123004.xyz. (34)
+22:00:30.958710 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:30.958715 IP6 ip6-localhost.45410 > ip6-localhost.domain: 43277+ A? sg1.1.123004.xyz. (34)
+22:00:30.958718 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:30.963576 IP localhost.52140 > localhost.8000: Flags [P.], seq 103:620, ack 40, win 512, options [nop,nop,TS val 3776098107 ecr 3776098100], length 517
+22:00:31.001043 IP localhost.37486 > localhost.15490: Flags [P.], seq 4445:4543, ack 3888, win 512, options [nop,nop,TS val 3776098144 ecr 3776097185], length 98
+22:00:31.001062 IP localhost.15490 > localhost.37486: Flags [.], ack 4543, win 512, options [nop,nop,TS val 3776098144 ecr 3776098144], length 0
+22:00:31.001331 IP localhost.15490 > localhost.37486: Flags [P.], seq 3888:3918, ack 4543, win 512, options [nop,nop,TS val 3776098144 ecr 3776098144], length 30
+22:00:31.001347 IP localhost.37486 > localhost.15490: Flags [.], ack 3918, win 512, options [nop,nop,TS val 3776098144 ecr 3776098144], length 0
+22:00:31.001422 IP localhost.15490 > localhost.37486: Flags [P.], seq 3918:3997, ack 4543, win 512, options [nop,nop,TS val 3776098145 ecr 3776098144], length 79
+22:00:31.001434 IP localhost.37486 > localhost.15490: Flags [.], ack 3997, win 512, options [nop,nop,TS val 3776098145 ecr 3776098145], length 0
+22:00:31.001498 IP localhost.37486 > localhost.15490: Flags [P.], seq 4543:4573, ack 3997, win 512, options [nop,nop,TS val 3776098145 ecr 3776098145], length 30
+22:00:31.001637 IP localhost.37486 > localhost.15490: Flags [P.], seq 4573:4673, ack 3997, win 512, options [nop,nop,TS val 3776098145 ecr 3776098145], length 100
+22:00:31.001677 IP localhost.15490 > localhost.37486: Flags [.], ack 4673, win 512, options [nop,nop,TS val 3776098145 ecr 3776098145], length 0
+22:00:31.001917 IP localhost.15490 > localhost.37486: Flags [P.], seq 3997:4107, ack 4673, win 512, options [nop,nop,TS val 3776098145 ecr 3776098145], length 110
+22:00:31.002059 IP localhost.37486 > localhost.15490: Flags [P.], seq 4673:4703, ack 4107, win 512, options [nop,nop,TS val 3776098145 ecr 3776098145], length 30
+22:00:31.002193 IP localhost.37486 > localhost.15490: Flags [P.], seq 4703:4802, ack 4107, win 512, options [nop,nop,TS val 3776098145 ecr 3776098145], length 99
+22:00:31.002241 IP localhost.15490 > localhost.37486: Flags [.], ack 4802, win 512, options [nop,nop,TS val 3776098145 ecr 3776098145], length 0
+22:00:31.002451 IP localhost.15490 > localhost.37486: Flags [P.], seq 4107:4137, ack 4802, win 512, options [nop,nop,TS val 3776098146 ecr 3776098145], length 30
+22:00:31.002482 IP localhost.15490 > localhost.37486: Flags [P.], seq 4137:4214, ack 4802, win 512, options [nop,nop,TS val 3776098146 ecr 3776098145], length 77
+22:00:31.002542 IP localhost.37486 > localhost.15490: Flags [.], ack 4214, win 512, options [nop,nop,TS val 3776098146 ecr 3776098146], length 0
+22:00:31.002618 IP localhost.37486 > localhost.15490: Flags [P.], seq 4802:4832, ack 4214, win 512, options [nop,nop,TS val 3776098146 ecr 3776098146], length 30
+22:00:31.002738 IP localhost.37486 > localhost.15490: Flags [P.], seq 4832:4933, ack 4214, win 512, options [nop,nop,TS val 3776098146 ecr 3776098146], length 101
+22:00:31.002770 IP localhost.15490 > localhost.37486: Flags [.], ack 4933, win 512, options [nop,nop,TS val 3776098146 ecr 3776098146], length 0
+22:00:31.002998 IP localhost.15490 > localhost.37486: Flags [P.], seq 4214:4244, ack 4933, win 512, options [nop,nop,TS val 3776098146 ecr 3776098146], length 30
+22:00:31.003036 IP localhost.15490 > localhost.37486: Flags [P.], seq 4244:4323, ack 4933, win 512, options [nop,nop,TS val 3776098146 ecr 3776098146], length 79
+22:00:31.003089 IP localhost.37486 > localhost.15490: Flags [.], ack 4323, win 512, options [nop,nop,TS val 3776098146 ecr 3776098146], length 0
+22:00:31.003166 IP localhost.37486 > localhost.15490: Flags [P.], seq 4933:4963, ack 4323, win 512, options [nop,nop,TS val 3776098146 ecr 3776098146], length 30
+22:00:31.005986 IP localhost.8000 > localhost.52140: Flags [.], ack 620, win 512, options [nop,nop,TS val 3776098149 ecr 3776098107], length 0
+22:00:31.045982 IP localhost.15490 > localhost.37486: Flags [.], ack 4963, win 512, options [nop,nop,TS val 3776098189 ecr 3776098146], length 0
+22:00:31.159318 IP localhost.58620 > localhost.domain: 11005+ AAAA? sg1.1.123004.xyz. (34)
+22:00:31.159339 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:31.159371 IP localhost.47145 > localhost.domain: 3349+ A? sg1.1.123004.xyz. (34)
+22:00:31.159388 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:31.159503 IP6 ip6-localhost.35090 > ip6-localhost.domain: 36992+ AAAA? sg1.1.123004.xyz. (34)
+22:00:31.159523 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:31.159548 IP6 ip6-localhost.33844 > ip6-localhost.domain: 54585+ A? sg1.1.123004.xyz. (34)
+22:00:31.159566 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:31.159645 IP localhost.46950 > localhost.domain: 11775+ AAAA? sg1.1.123004.xyz. (34)
+22:00:31.159655 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:31.159688 IP localhost.41818 > localhost.domain: 53959+ A? sg1.1.123004.xyz. (34)
+22:00:31.159699 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:31.159776 IP6 ip6-localhost.57351 > ip6-localhost.domain: 26447+ AAAA? sg1.1.123004.xyz. (34)
+22:00:31.159789 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:31.159809 IP6 ip6-localhost.37384 > ip6-localhost.domain: 9568+ A? sg1.1.123004.xyz. (34)
+22:00:31.159822 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:31.177308 IP localhost.55763 > localhost.domain: 36865+ A? ntp.ubuntu.com. (32)
+22:00:31.177326 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.177345 IP localhost.55763 > localhost.domain: 29748+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.177352 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.177389 IP localhost.49917 > localhost.domain: 36865+ A? ntp.ubuntu.com. (32)
+22:00:31.177395 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.177407 IP localhost.49917 > localhost.domain: 29748+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.177412 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.177448 IP localhost.59263 > localhost.domain: 48208+ A? ntp.ubuntu.com. (32)
+22:00:31.177454 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.177466 IP localhost.59263 > localhost.domain: 64631+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.177471 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.177502 IP localhost.57403 > localhost.domain: 48208+ A? ntp.ubuntu.com. (32)
+22:00:31.177508 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.177520 IP localhost.57403 > localhost.domain: 64631+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.177526 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178047 IP localhost.42893 > localhost.domain: 14481+ A? ntp.ubuntu.com. (32)
+22:00:31.178057 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178073 IP localhost.42893 > localhost.domain: 61623+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.178079 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178113 IP localhost.36844 > localhost.domain: 14481+ A? ntp.ubuntu.com. (32)
+22:00:31.178120 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178132 IP localhost.36844 > localhost.domain: 61623+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.178138 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178174 IP localhost.34538 > localhost.domain: 19577+ A? ntp.ubuntu.com. (32)
+22:00:31.178180 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178192 IP localhost.34538 > localhost.domain: 24642+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.178197 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178227 IP localhost.57140 > localhost.domain: 19577+ A? ntp.ubuntu.com. (32)
+22:00:31.178234 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178246 IP localhost.57140 > localhost.domain: 24642+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.178251 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178793 IP localhost.42850 > localhost.domain: 61690+ A? ntp.ubuntu.com. (32)
+22:00:31.178811 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178831 IP localhost.42850 > localhost.domain: 18628+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.178838 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178878 IP localhost.49058 > localhost.domain: 61690+ A? ntp.ubuntu.com. (32)
+22:00:31.178885 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178897 IP localhost.49058 > localhost.domain: 18628+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.178902 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178940 IP localhost.51116 > localhost.domain: 56530+ A? ntp.ubuntu.com. (32)
+22:00:31.178946 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178958 IP localhost.51116 > localhost.domain: 35051+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.178963 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.178994 IP localhost.54956 > localhost.domain: 56530+ A? ntp.ubuntu.com. (32)
+22:00:31.179000 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.179012 IP localhost.54956 > localhost.domain: 35051+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.179017 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.179591 IP localhost.50182 > localhost.domain: 25695+ A? ntp.ubuntu.com. (32)
+22:00:31.179607 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.179627 IP localhost.50182 > localhost.domain: 29924+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.179633 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.179671 IP localhost.37296 > localhost.domain: 25695+ A? ntp.ubuntu.com. (32)
+22:00:31.179677 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.179689 IP localhost.37296 > localhost.domain: 29924+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.179694 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.179732 IP localhost.44218 > localhost.domain: 45121+ A? ntp.ubuntu.com. (32)
+22:00:31.179738 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.179750 IP localhost.44218 > localhost.domain: 44200+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.179755 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.179785 IP localhost.59004 > localhost.domain: 45121+ A? ntp.ubuntu.com. (32)
+22:00:31.179791 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.179803 IP localhost.59004 > localhost.domain: 44200+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.179808 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.180313 IP localhost.54841 > localhost.domain: 36896+ A? ntp.ubuntu.com. (32)
+22:00:31.180327 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.180346 IP localhost.54841 > localhost.domain: 51368+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.180353 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.180388 IP localhost.41977 > localhost.domain: 36896+ A? ntp.ubuntu.com. (32)
+22:00:31.180395 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.180407 IP localhost.41977 > localhost.domain: 51368+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.180412 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.180448 IP localhost.47884 > localhost.domain: 40034+ A? ntp.ubuntu.com. (32)
+22:00:31.180454 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.180466 IP localhost.47884 > localhost.domain: 44071+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.180471 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.180499 IP localhost.49652 > localhost.domain: 40034+ A? ntp.ubuntu.com. (32)
+22:00:31.180505 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.180516 IP localhost.49652 > localhost.domain: 44071+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.180521 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181028 IP localhost.59318 > localhost.domain: 35040+ A? ntp.ubuntu.com. (32)
+22:00:31.181042 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181062 IP localhost.59318 > localhost.domain: 55465+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.181068 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181102 IP localhost.36943 > localhost.domain: 35040+ A? ntp.ubuntu.com. (32)
+22:00:31.181109 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181121 IP localhost.36943 > localhost.domain: 55465+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.181126 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181162 IP localhost.50442 > localhost.domain: 7330+ A? ntp.ubuntu.com. (32)
+22:00:31.181168 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181180 IP localhost.50442 > localhost.domain: 7333+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.181185 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181212 IP localhost.46314 > localhost.domain: 7330+ A? ntp.ubuntu.com. (32)
+22:00:31.181218 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181229 IP localhost.46314 > localhost.domain: 7333+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.181235 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181753 IP localhost.36834 > localhost.domain: 28831+ A? ntp.ubuntu.com. (32)
+22:00:31.181768 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181787 IP localhost.36834 > localhost.domain: 45227+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.181793 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181831 IP localhost.56177 > localhost.domain: 28831+ A? ntp.ubuntu.com. (32)
+22:00:31.181837 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181849 IP localhost.56177 > localhost.domain: 45227+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.181855 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181890 IP localhost.42962 > localhost.domain: 25720+ A? ntp.ubuntu.com. (32)
+22:00:31.181896 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181933 IP localhost.42962 > localhost.domain: 26703+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.181940 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181970 IP localhost.47850 > localhost.domain: 25720+ A? ntp.ubuntu.com. (32)
+22:00:31.181976 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.181988 IP localhost.47850 > localhost.domain: 26703+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.181993 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.182487 IP localhost.54039 > localhost.domain: 31943+ A? ntp.ubuntu.com. (32)
+22:00:31.182501 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.182520 IP localhost.54039 > localhost.domain: 30799+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.182527 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.182562 IP localhost.37888 > localhost.domain: 31943+ A? ntp.ubuntu.com. (32)
+22:00:31.182568 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.182580 IP localhost.37888 > localhost.domain: 30799+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.182585 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.182619 IP localhost.35361 > localhost.domain: 6391+ A? ntp.ubuntu.com. (32)
+22:00:31.182625 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.182637 IP localhost.35361 > localhost.domain: 34984+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.182642 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.182670 IP localhost.34698 > localhost.domain: 6391+ A? ntp.ubuntu.com. (32)
+22:00:31.182676 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.182687 IP localhost.34698 > localhost.domain: 34984+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.182692 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183113 IP localhost.44294 > localhost.domain: 35924+ A? ntp.ubuntu.com. (32)
+22:00:31.183122 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183137 IP localhost.44294 > localhost.domain: 49164+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.183142 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183172 IP localhost.32807 > localhost.domain: 35924+ A? ntp.ubuntu.com. (32)
+22:00:31.183178 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183189 IP localhost.32807 > localhost.domain: 49164+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.183195 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183227 IP localhost.36663 > localhost.domain: 62655+ A? ntp.ubuntu.com. (32)
+22:00:31.183233 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183245 IP localhost.36663 > localhost.domain: 40058+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.183250 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183277 IP localhost.44910 > localhost.domain: 62655+ A? ntp.ubuntu.com. (32)
+22:00:31.183283 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183294 IP localhost.44910 > localhost.domain: 40058+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.183300 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183704 IP localhost.60135 > localhost.domain: 51370+ A? ntp.ubuntu.com. (32)
+22:00:31.183714 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183728 IP localhost.60135 > localhost.domain: 40165+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.183734 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183764 IP localhost.39668 > localhost.domain: 51370+ A? ntp.ubuntu.com. (32)
+22:00:31.183769 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183781 IP localhost.39668 > localhost.domain: 40165+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.183786 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183818 IP localhost.49571 > localhost.domain: 6399+ A? ntp.ubuntu.com. (32)
+22:00:31.183823 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183835 IP localhost.49571 > localhost.domain: 40991+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.183840 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183867 IP localhost.52527 > localhost.domain: 6399+ A? ntp.ubuntu.com. (32)
+22:00:31.183873 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.183884 IP localhost.52527 > localhost.domain: 40991+ AAAA? ntp.ubuntu.com. (32)
+22:00:31.183889 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 68
+22:00:31.560579 IP localhost.59311 > localhost.domain: 54100+ A? sg1.1.123004.xyz. (34)
+22:00:31.560580 IP localhost.44330 > localhost.domain: 23321+ AAAA? sg1.1.123004.xyz. (34)
+22:00:31.560600 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:31.560603 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:31.560762 IP6 ip6-localhost.35314 > ip6-localhost.domain: 31787+ A? sg1.1.123004.xyz. (34)
+22:00:31.560780 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:31.560802 IP6 ip6-localhost.54319 > ip6-localhost.domain: 46943+ AAAA? sg1.1.123004.xyz. (34)
+22:00:31.560825 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:31.560899 IP localhost.47556 > localhost.domain: 42201+ A? sg1.1.123004.xyz. (34)
+22:00:31.560910 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:31.561008 IP localhost.36121 > localhost.domain: 7929+ AAAA? sg1.1.123004.xyz. (34)
+22:00:31.561026 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:31.561031 IP6 ip6-localhost.38504 > ip6-localhost.domain: 48055+ A? sg1.1.123004.xyz. (34)
+22:00:31.561045 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:31.561197 IP6 ip6-localhost.37016 > ip6-localhost.domain: 22840+ AAAA? sg1.1.123004.xyz. (34)
+22:00:31.561218 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:32.003521 IP localhost.37486 > localhost.15490: Flags [P.], seq 4963:5061, ack 4323, win 512, options [nop,nop,TS val 3776099147 ecr 3776098189], length 98
+22:00:32.003545 IP localhost.15490 > localhost.37486: Flags [.], ack 5061, win 512, options [nop,nop,TS val 3776099147 ecr 3776099147], length 0
+22:00:32.003896 IP localhost.15490 > localhost.37486: Flags [P.], seq 4323:4353, ack 5061, win 512, options [nop,nop,TS val 3776099147 ecr 3776099147], length 30
+22:00:32.003933 IP localhost.15490 > localhost.37486: Flags [P.], seq 4353:4429, ack 5061, win 512, options [nop,nop,TS val 3776099147 ecr 3776099147], length 76
+22:00:32.003971 IP localhost.37486 > localhost.15490: Flags [.], ack 4429, win 512, options [nop,nop,TS val 3776099147 ecr 3776099147], length 0
+22:00:32.004049 IP localhost.37486 > localhost.15490: Flags [P.], seq 5061:5091, ack 4429, win 512, options [nop,nop,TS val 3776099147 ecr 3776099147], length 30
+22:00:32.004188 IP localhost.37486 > localhost.15490: Flags [P.], seq 5091:5191, ack 4429, win 512, options [nop,nop,TS val 3776099147 ecr 3776099147], length 100
+22:00:32.004222 IP localhost.15490 > localhost.37486: Flags [.], ack 5191, win 512, options [nop,nop,TS val 3776099147 ecr 3776099147], length 0
+22:00:32.004385 IP localhost.15490 > localhost.37486: Flags [P.], seq 4429:4459, ack 5191, win 512, options [nop,nop,TS val 3776099147 ecr 3776099147], length 30
+22:00:32.004465 IP localhost.37486 > localhost.15490: Flags [P.], seq 5191:5208, ack 4459, win 512, options [nop,nop,TS val 3776099148 ecr 3776099147], length 17
+22:00:32.004537 IP localhost.15490 > localhost.37486: Flags [P.], seq 4459:4537, ack 5208, win 512, options [nop,nop,TS val 3776099148 ecr 3776099148], length 78
+22:00:32.004793 IP localhost.37486 > localhost.15490: Flags [P.], seq 5208:5307, ack 4537, win 512, options [nop,nop,TS val 3776099148 ecr 3776099148], length 99
+22:00:32.005047 IP localhost.15490 > localhost.37486: Flags [P.], seq 4537:4567, ack 5307, win 512, options [nop,nop,TS val 3776099148 ecr 3776099148], length 30
+22:00:32.005142 IP localhost.15490 > localhost.37486: Flags [P.], seq 4567:4644, ack 5307, win 512, options [nop,nop,TS val 3776099148 ecr 3776099148], length 77
+22:00:32.005175 IP localhost.37486 > localhost.15490: Flags [.], ack 4644, win 512, options [nop,nop,TS val 3776099148 ecr 3776099148], length 0
+22:00:32.005281 IP localhost.37486 > localhost.15490: Flags [P.], seq 5307:5337, ack 4644, win 512, options [nop,nop,TS val 3776099148 ecr 3776099148], length 30
+22:00:32.005424 IP localhost.37486 > localhost.15490: Flags [P.], seq 5337:5438, ack 4644, win 512, options [nop,nop,TS val 3776099149 ecr 3776099148], length 101
+22:00:32.005459 IP localhost.15490 > localhost.37486: Flags [.], ack 5438, win 512, options [nop,nop,TS val 3776099149 ecr 3776099148], length 0
+22:00:32.005619 IP localhost.15490 > localhost.37486: Flags [P.], seq 4644:4674, ack 5438, win 512, options [nop,nop,TS val 3776099149 ecr 3776099148], length 30
+22:00:32.005696 IP localhost.15490 > localhost.37486: Flags [P.], seq 4674:4753, ack 5438, win 512, options [nop,nop,TS val 3776099149 ecr 3776099148], length 79
+22:00:32.005738 IP localhost.37486 > localhost.15490: Flags [.], ack 4753, win 512, options [nop,nop,TS val 3776099149 ecr 3776099149], length 0
+22:00:32.005808 IP localhost.37486 > localhost.15490: Flags [P.], seq 5438:5468, ack 4753, win 512, options [nop,nop,TS val 3776099149 ecr 3776099149], length 30
+22:00:32.049993 IP localhost.15490 > localhost.37486: Flags [.], ack 5468, win 512, options [nop,nop,TS val 3776099193 ecr 3776099149], length 0
+22:00:32.162189 IP localhost.58467 > localhost.domain: 54916+ AAAA? sg1.1.123004.xyz. (34)
+22:00:32.162214 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:32.162237 IP localhost.42766 > localhost.domain: 16055+ A? sg1.1.123004.xyz. (34)
+22:00:32.162253 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:32.162408 IP6 ip6-localhost.43207 > ip6-localhost.domain: 30964+ A? sg1.1.123004.xyz. (34)
+22:00:32.162413 IP6 ip6-localhost.56586 > ip6-localhost.domain: 20651+ AAAA? sg1.1.123004.xyz. (34)
+22:00:32.162428 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:32.162432 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:32.162541 IP localhost.43865 > localhost.domain: 36166+ A? sg1.1.123004.xyz. (34)
+22:00:32.162552 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:32.162562 IP localhost.45153 > localhost.domain: 5429+ AAAA? sg1.1.123004.xyz. (34)
+22:00:32.162577 IP localhost > localhost: ICMP localhost udp port domain unreachable, length 70
+22:00:32.162656 IP6 ip6-localhost.53500 > ip6-localhost.domain: 39476+ A? sg1.1.123004.xyz. (34)
+22:00:32.162669 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+22:00:32.162729 IP6 ip6-localhost.38878 > ip6-localhost.domain: 59390+ AAAA? sg1.1.123004.xyz. (34)
+22:00:32.162747 IP6 ip6-localhost > ip6-localhost: ICMP6, destination unreachable, unreachable port, ip6-localhost udp port domain, length 90
+
